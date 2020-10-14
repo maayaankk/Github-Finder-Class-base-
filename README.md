@@ -4,6 +4,13 @@ https://github-class.web.app/
 
 ## Available Scripts
 
+### `How to install firebase`
+1. npm i firebase
+2. npm i firebase-tools
+3. firebase init
+4. npm run build
+5. firebase deploy 
+
 In the project directory, you can run:
 
 ### `npm start`
