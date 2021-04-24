@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Link to project
+Class Components are been used all inside the project.
 https://github-class.web.app/
 
 ## Available Scripts
